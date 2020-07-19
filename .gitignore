@@ -1,0 +1,10 @@
+## python stuff
+*.pyc
+venv
+__pycache__
+.pytest_cache
+dist
+*.egg-info
+build
+.DS_Store
+.vscode
