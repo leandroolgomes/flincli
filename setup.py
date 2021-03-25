@@ -11,7 +11,7 @@ setup(
         'click',
         'boto3',
         'tabulate',
-        'PyYAML==5.3.1' ,
+        'PyYAML==5.4' ,
         'requests==2.23.0'
     ],
     entry_points='''
