@@ -12,7 +12,7 @@ setup(
         'boto3',
         'tabulate',
         'PyYAML==5.3.1' ,
-        'requests==2.23.0'
+        'requests==2.31.0'
     ],
     entry_points='''
         [console_scripts]
